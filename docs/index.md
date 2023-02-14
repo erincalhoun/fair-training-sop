@@ -22,3 +22,5 @@ Based on the principles outlined in the [Ten simple rules for making training ma
 [FAIR training Focus Group 2021](https://docs.google.com/document/d/1XkCfXFg_4HHKLirC_nUesoQJxxY0t07voWMN6jtLeeE/edit#)
 
 [FAIR training Focus Group 2022](https://docs.google.com/document/d/1RdnlMiBs8pOXKOLodla9fjKZqXNvzfXVCg2SyrVvmrc/edit#)
+
+[Inventory of Training Materials about FAIR](https://docs.google.com/spreadsheets/d/1S8O3y0M9enTGNf4bF7cuJQHf65oUyRTYGSRPtynZEUk/edit#)

@@ -1,4 +1,4 @@
-# FAIRify Materials
+# FAIRify Events
 
 ## Overview
 ## Before the event
