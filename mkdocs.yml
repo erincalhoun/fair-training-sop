@@ -1,0 +1,9 @@
+site_name: FAIR training SOP
+site_url: 
+nav:
+    - Home: index.md
+    - Materials: materials.md
+    - Events: events.md
+    - Workflows: workflows.md
+theme: readthedocs
+
