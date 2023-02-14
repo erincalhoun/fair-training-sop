@@ -20,3 +20,5 @@ Based on the principles outlined in the [Ten simple rules for making training ma
 [FAIR training handbook](https://elixir-fair-training.github.io/FAIR-training-handbook/)
 
 [FAIR training Focus Group 2021](https://docs.google.com/document/d/1XkCfXFg_4HHKLirC_nUesoQJxxY0t07voWMN6jtLeeE/edit#)
+
+[FAIR training Focus Group 2022](https://docs.google.com/document/d/1RdnlMiBs8pOXKOLodla9fjKZqXNvzfXVCg2SyrVvmrc/edit#)
