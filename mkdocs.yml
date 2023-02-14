@@ -2,8 +2,14 @@ site_name: FAIR training SOP
 site_url: 
 nav:
     - Home: index.md
+    - Purpose: purpose.md
+    - Scope: scope.md
+    - Intended audience: targets.md
+    - Terms & definitions: terms.md
+    - Background: background.md
     - Materials: materials.md
     - Events: events.md
     - Workflows: workflows.md
+    - References: references.md
 theme: readthedocs
 
