@@ -12,3 +12,6 @@ Based on the principles outlined in the [Ten simple rules for making training ma
 ## Useful documents
 
 [ELIXIR events guidelines and tips](https://docs.google.com/document/d/12YrPsuwEuUywSRaYdjUDjaq-bvhm_e_gOqd1pM44vmc/edit)
+[Publishing ELIXIR-related work](https://docs.google.com/document/d/1Xffdea4iUj1mv-vYgiAoZzFAXe0b1gdHo9egrsfPyjw/edit#)
+[FAIR training handbook](https://elixir-fair-training.github.io/FAIR-training-handbook/)
+[FAIR training Focus Group 2021](https://docs.google.com/document/d/1XkCfXFg_4HHKLirC_nUesoQJxxY0t07voWMN6jtLeeE/edit#)
