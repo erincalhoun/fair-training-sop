@@ -1,7 +1,7 @@
-# FINDABILITY
+## FINDABILITY
 
-## F1 - unique ID
-### Assign training materials and their metadata identifiers
+### F1 - unique ID
+#### Assign training materials and their metadata identifiers
 
 For both:
 
@@ -21,8 +21,8 @@ For training materials:
 * versioning control system?
   * bc training materials evolve and need updating
 
-## F2 - rich metadata
-### Data (*training materials) are described with rich metadata
+### F2 - rich metadata
+#### Data (*training materials) are described with rich metadata
 
 * define "rich" - minimum set of metadata
   * do we decide or do we explain principles?
@@ -32,8 +32,8 @@ For training materials:
 * instructions for annotation with bio/schemas
   * how to implement them for a training structure
 
-## F3 - inclusion of ID
-### Metadata clearly/explicitly include identifier of training materials they describe
+### F3 - inclusion of ID
+#### Metadata clearly/explicitly include identifier of training materials they describe
 
 Include:
 
@@ -42,8 +42,8 @@ Include:
   * URL
 * identifier link to earlier versions?
 
-## F4 - indexed registries
-### Meta/data are registered in a resource that is indexed, searchable, and compatible with community
+### F4 - indexed registries
+#### Meta/data are registered in a resource that is indexed, searchable, and compatible with community
 
 * include which resources for which types of materials/metadata
   * training materials must be findable from metadata
@@ -62,26 +62,26 @@ Implementation:
 * archiving options
 * how to deal with versioning/updates
 
-# ACCESSIBILITY
+## ACCESSIBILITY
 
-## A1 - retrieval by identifier
-### Meta/data are retrievable by identifier using standardized communication protocol
+### A1 - retrieval by identifier
+#### Meta/data are retrievable by identifier using standardized communication protocol
 
 Note: physical/lab training requires different principles from digital/computational training
 
 Explain/show examples where training material is/is not retrievable
 
-## A1.1 - protocol
-### The (communication?) protocol is open, free, and universally implementable
+### A1.1 - protocol
+#### The (communication?) protocol is open, free, and universally implementable
 
-## A1.2 - authentication and authorization
-### The protocol allows for authentication and authorization where necessary
+### A1.2 - authentication and authorization
+#### The protocol allows for authentication and authorization where necessary
 
 	• if this is necessary, SOP must include instructions
 	• metadata should explicitly state if these are necessary to access the training material
 
-## A1.3 - alt accessibility
-### Include how to make materials accessible for different access needs/assistive technology
+### A1.3 - alt accessibility
+#### Include how to make materials accessible for different access needs/assistive technology
 
 	• ALT text to images
 	• transcripts
@@ -89,8 +89,8 @@ Explain/show examples where training material is/is not retrievable
 	• accessible fonts
 	• color contrast
 
-## A2 - metadata availability beyond data
-### Metadata should be accessible even when data is no long available
+### A2 - metadata availability beyond data
+#### Metadata should be accessible even when data is no long available
 
 	• info on registries/repositories should include how long they preserve metadata
 
