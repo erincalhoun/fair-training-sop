@@ -62,4 +62,37 @@ Implementation:
 * archiving options
 * how to deal with versioning/updates
 
+# ACCESSIBILITY
+
+## A1 - retrieval by identifier
+### Meta/data are retrievable by identifier using standardized communication protocol
+
+Note: physical/lab training requires different principles from digital/computational training
+
+Explain/show examples where training material is/is not retrievable
+
+## A1.1 - protocol
+### The (communication?) protocol is open, free, and universally implementable
+
+## A1.2 - authentication and authorization
+### The protocol allows for authentication and authorization where necessary
+
+	• if this is necessary, SOP must include instructions
+	• metadata should explicitly state if these are necessary to access the training material
+
+## A1.3 - alt accessibility
+### Include how to make materials accessible for different access needs/assistive technology
+
+	• ALT text to images
+	• transcripts
+	• ensure reading order is correct for screen readers
+	• accessible fonts
+	• color contrast
+
+## A2 - metadata availability beyond data
+### Metadata should be accessible even when data is no long available
+
+	• info on registries/repositories should include how long they preserve metadata
+
+
 Notes from [A revision of FAIR principles for training materials](https://docs.google.com/document/d/1xuh19qnYbKuH6_DpIDmLO21_TXv2RuDR6cvaKCNTj_w/edit#heading=h.56ew5ev0soan)
