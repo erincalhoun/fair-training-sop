@@ -4,6 +4,7 @@
 ### Assign training materials and their metadata identifiers
 
 For both:
+
 * separate PIDs
   * lasting metadata if digital object disappears
   * accessible metadata when training materials aren't open
@@ -15,6 +16,7 @@ For both:
   * when is a new PID necessary? ex: typo, new version/release
 
 For training materials:
+
 * FAIR principles should refer to digital objects rather than data
 * versioning control system?
   * bc training materials evolve and need updating
@@ -34,6 +36,7 @@ For training materials:
 ### Metadata clearly/explicitly include identifier of training materials they describe
 
 Include:
+
 * identifier form - should be consistent and machine-actionable
   * short
   * URL
@@ -50,6 +53,7 @@ Include:
   * training material is indexed through uni web page (but not accessible)
 
 Implementation:
+
 * contact information
   * especially when material is not open
 * required/recommended metadata fields
