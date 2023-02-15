@@ -24,3 +24,9 @@ Based on the principles outlined in the [Ten simple rules for making training ma
 [FAIR training Focus Group 2022](https://docs.google.com/document/d/1RdnlMiBs8pOXKOLodla9fjKZqXNvzfXVCg2SyrVvmrc/edit#)
 
 [Inventory of Training Materials about FAIR](https://docs.google.com/spreadsheets/d/1S8O3y0M9enTGNf4bF7cuJQHf65oUyRTYGSRPtynZEUk/edit#)
+
+[Essential steps of the FAIRification process](https://docs.google.com/document/d/1Tc30MeYFjze1W1Wd7zje1dW8rsq85BwqnY-SnIVvkvU/edit#)
+
+[FAIRsharing - Educational](https://fairsharing.org/educational/)
+
+[A revision of the FAIR principles for the case of Training Materials](https://docs.google.com/document/d/1xuh19qnYbKuH6_DpIDmLO21_TXv2RuDR6cvaKCNTj_w/edit#heading=h.56ew5ev0soan)
