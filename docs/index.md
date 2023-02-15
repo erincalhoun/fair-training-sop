@@ -13,6 +13,8 @@ Based on the principles outlined in the [Ten simple rules for making training ma
 
 ## Useful documents
 
+[GoFAIR - FAIR principles](https://www.go-fair.org/fair-principles/i1-metadata-use-formal-accessible-shared-broadly-applicable-language-knowledge-representation/)
+
 [ELIXIR events guidelines and tips](https://docs.google.com/document/d/12YrPsuwEuUywSRaYdjUDjaq-bvhm_e_gOqd1pM44vmc/edit)
 
 [Publishing ELIXIR-related work](https://docs.google.com/document/d/1Xffdea4iUj1mv-vYgiAoZzFAXe0b1gdHo9egrsfPyjw/edit#)
@@ -30,3 +32,7 @@ Based on the principles outlined in the [Ten simple rules for making training ma
 [FAIRsharing - Educational](https://fairsharing.org/educational/)
 
 [A revision of the FAIR principles for the case of Training Materials](https://docs.google.com/document/d/1xuh19qnYbKuH6_DpIDmLO21_TXv2RuDR6cvaKCNTj_w/edit#heading=h.56ew5ev0soan)
+
+[miniMetadata for training - data dictionary table](https://docs.google.com/spreadsheets/d/1eyNtXjanwQb_nFfM4CJjEb2bMsEZIE4fd4DKnlPKBMc/edit#gid=0)
+
+[Draft: Training resources metadata testbed discussion](https://docs.google.com/document/d/1yN57rnG5gJ78MzoHSqXihLkW567ebLt80Pa-eTkPOJw/edit#heading=h.dhi8bitqavum)
