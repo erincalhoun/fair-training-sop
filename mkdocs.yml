@@ -2,7 +2,6 @@ site_name: FAIR training SOP
 site_url: 
 nav:
     - Home: index.md
-        - Introduction: intro.md
     - Development: develop.md
     - Delivery: deliver.md
     - Sharing: share.md
