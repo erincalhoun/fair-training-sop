@@ -2,10 +2,6 @@ site_name: FAIR training SOP
 site_url: 
 markdown_extensions:
     - admonition
-    - pymdownx.details
-    - pymdownx.superfences
-    - toc:
-        permalink: true
 
 nav:
     - Home: index.md
