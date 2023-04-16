@@ -13,7 +13,6 @@ Adopt open platforms and formats, use standard domain-specific language, and fol
 #### Reusability
 Design your materials in a way that allows for easy adaptation and customization, and provide clear instructions for use and attribution.
 ## Craft a comprehensive lesson plan
-A lesson plan should accompany training materials, with as much of the following information as possible:
 ### Describe the materials appropriately
 Describing your materials (and their metadata) well helps with all FAIR principles.
 #### Use clear, descriptive titles
