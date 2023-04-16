@@ -1,6 +1,6 @@
 # FAIR training SOP
 
-!!! note Under construction!
+!!! note "Under construction!"
 
 Based on the principles outlined in the [Ten simple rules for making training materials FAIR](https://doi.org/10.1371/journal.pcbi.1007854) and the FAIR training handbook.
 
