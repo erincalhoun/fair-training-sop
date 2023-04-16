@@ -4,7 +4,6 @@
 ### Why should you make your training materials FAIR?
 Making training materials FAIR is essential for ensuring that they can be easily found, accessed, and used. Adhering to FAIR principles not only broadens your potential audience but also facilitates collaboration and resource sharing, making the development process more efficient.
 ### Key considerations
-When developing FAIR training materials, it's most important to focus on:
 #### Findability
 Use descriptive titles, relevant keywords and controlled vocabularies (EDAM) where possible, rich metadata (BioSchemas), and a clear organizational structure.
 #### Accessibility
