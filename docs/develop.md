@@ -69,10 +69,15 @@ Ideally the platform should:
 - offer version control to maintain a history of updates
 ### Options for development
 **Locally**
+
 Create and store training materials on your local computer or internal drives using familiar software like Microsoft Office. While local development feels convenient, it can be challenging to collaborate FAIRly and share the materials with others.
+
 **Repositories**
+
 Repositories (like GitHub) that offer versioning enable you to create, edit, and store your training materials online (openly or restricted). These features facilitate collaboration, tracking changes, and sharing.
+
 **Online platforms**
+
 Online platforms can be propriety (Google Suite) or open source (Moodle). Both allow you to develop, collaborate on, and share your training materials online. The platforms are more customizeable, often including additional features like real-time editing and chat.
 ## Choose suitable formats
 ### Common formats
