@@ -1,10 +1,18 @@
 site_name: FAIR training SOP
 site_url: 
+
+theme: readthedocs
+
+markdown_extensions:
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+    - toc:
+        permalink: true
+
 nav:
     - Home: index.md
     - Development: develop.md
     - Delivery: deliver.md
     - Sharing: share.md
     - Archiving: archive.md
-theme: readthedocs
-
