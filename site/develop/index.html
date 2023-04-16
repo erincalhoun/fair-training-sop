@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../img/favicon.ico" />
+    <title>Development - FAIR training SOP</title>
+    <link rel="stylesheet" href="../css/theme.css" />
+    <link rel="stylesheet" href="../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Development";
+        var mkdocs_page_input_path = "develop.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <script src="../js/jquery-3.6.0.min.js" defer></script>
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+      <script>hljs.initHighlightingOnLoad();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href=".." class="icon icon-home"> FAIR training SOP
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="..">Home</a>
+                </li>
+              </ul>
+              <ul class="current">
+                <li class="toctree-l1 current"><a class="reference internal current" href="./">Development</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#introduction">Introduction</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#why-should-you-make-your-training-materials-fair">Why should you make your training materials FAIR?</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#key-considerations">Key considerations</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#findability">Findability</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#accessibility">Accessibility</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#interoperability">Interoperability</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#reusability">Reusability</a>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#craft-a-comprehensive-lesson-plan">Craft a comprehensive lesson plan</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#describe-the-materials-appropriately">Describe the materials appropriately</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#clear-descriptive-titles">Clear, descriptive titles</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#relevant-keywords">Relevant keywords</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#identify-the-target-audience">Identify the target audience</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#specify-prerequisites">Specify prerequisites</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#define-smart-learning-outcomes">Define SMART learning outcomes</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#specific">Specific</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#measurable">Measurable</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#achievable">Achievable</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#relevant">Relevant</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#time-bound">Time-bound</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#detail-the-learning-experiences">Detail the learning experiences</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#estimate-time-requirements">Estimate time requirements</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#incorporate-instructor-notes">Incorporate instructor notes</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#feedback-and-modifications">Feedback and modifications</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#technical-tips">Technical tips</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#challenges">Challenges</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#essential-sections">Essential sections</a>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#select-an-appropriate-development-platform">Select an appropriate development platform</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#ideal-features">Ideal features</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#options-for-development">Options for development</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#platform-fairness">Platform FAIRness</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#choose-suitable-formats">Choose suitable formats</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#common-formats">Common formats</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#assessing-format-fairness">Assessing format FAIRness</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#improving-format-fairness">Improving format FAIRness</a>
+    </li>
+        </ul>
+    </li>
+    </ul>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../deliver/">Delivery</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../share/">Sharing</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../archive/">Archiving</a>
+                </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="..">FAIR training SOP</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href=".." class="icon icon-home" alt="Docs"></a> &raquo;</li>
+      <li>Development</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="development-of-fair-training-materials">Development of FAIR training materials<a class="headerlink" href="#development-of-fair-training-materials" title="Permanent link">&para;</a></h1>
+<h2 id="introduction">Introduction<a class="headerlink" href="#introduction" title="Permanent link">&para;</a></h2>
+<h3 id="why-should-you-make-your-training-materials-fair">Why should you make your training materials FAIR?<a class="headerlink" href="#why-should-you-make-your-training-materials-fair" title="Permanent link">&para;</a></h3>
+<h3 id="key-considerations">Key considerations<a class="headerlink" href="#key-considerations" title="Permanent link">&para;</a></h3>
+<h4 id="findability">Findability<a class="headerlink" href="#findability" title="Permanent link">&para;</a></h4>
+<h4 id="accessibility">Accessibility<a class="headerlink" href="#accessibility" title="Permanent link">&para;</a></h4>
+<h4 id="interoperability">Interoperability<a class="headerlink" href="#interoperability" title="Permanent link">&para;</a></h4>
+<h4 id="reusability">Reusability<a class="headerlink" href="#reusability" title="Permanent link">&para;</a></h4>
+<h2 id="craft-a-comprehensive-lesson-plan">Craft a comprehensive lesson plan<a class="headerlink" href="#craft-a-comprehensive-lesson-plan" title="Permanent link">&para;</a></h2>
+<h3 id="describe-the-materials-appropriately">Describe the materials appropriately<a class="headerlink" href="#describe-the-materials-appropriately" title="Permanent link">&para;</a></h3>
+<h4 id="clear-descriptive-titles">Clear, descriptive titles<a class="headerlink" href="#clear-descriptive-titles" title="Permanent link">&para;</a></h4>
+<h4 id="relevant-keywords">Relevant keywords<a class="headerlink" href="#relevant-keywords" title="Permanent link">&para;</a></h4>
+<h3 id="identify-the-target-audience">Identify the target audience<a class="headerlink" href="#identify-the-target-audience" title="Permanent link">&para;</a></h3>
+<h3 id="specify-prerequisites">Specify prerequisites<a class="headerlink" href="#specify-prerequisites" title="Permanent link">&para;</a></h3>
+<h3 id="define-smart-learning-outcomes">Define SMART learning outcomes<a class="headerlink" href="#define-smart-learning-outcomes" title="Permanent link">&para;</a></h3>
+<h4 id="specific">Specific<a class="headerlink" href="#specific" title="Permanent link">&para;</a></h4>
+<h4 id="measurable">Measurable<a class="headerlink" href="#measurable" title="Permanent link">&para;</a></h4>
+<h4 id="achievable">Achievable<a class="headerlink" href="#achievable" title="Permanent link">&para;</a></h4>
+<h4 id="relevant">Relevant<a class="headerlink" href="#relevant" title="Permanent link">&para;</a></h4>
+<h4 id="time-bound">Time-bound<a class="headerlink" href="#time-bound" title="Permanent link">&para;</a></h4>
+<h3 id="detail-the-learning-experiences">Detail the learning experiences<a class="headerlink" href="#detail-the-learning-experiences" title="Permanent link">&para;</a></h3>
+<h3 id="estimate-time-requirements">Estimate time requirements<a class="headerlink" href="#estimate-time-requirements" title="Permanent link">&para;</a></h3>
+<h3 id="incorporate-instructor-notes">Incorporate instructor notes<a class="headerlink" href="#incorporate-instructor-notes" title="Permanent link">&para;</a></h3>
+<h4 id="feedback-and-modifications">Feedback and modifications<a class="headerlink" href="#feedback-and-modifications" title="Permanent link">&para;</a></h4>
+<h4 id="technical-tips">Technical tips<a class="headerlink" href="#technical-tips" title="Permanent link">&para;</a></h4>
+<h4 id="challenges">Challenges<a class="headerlink" href="#challenges" title="Permanent link">&para;</a></h4>
+<h4 id="essential-sections">Essential sections<a class="headerlink" href="#essential-sections" title="Permanent link">&para;</a></h4>
+<h2 id="select-an-appropriate-development-platform">Select an appropriate development platform<a class="headerlink" href="#select-an-appropriate-development-platform" title="Permanent link">&para;</a></h2>
+<h3 id="ideal-features">Ideal features<a class="headerlink" href="#ideal-features" title="Permanent link">&para;</a></h3>
+<h3 id="options-for-development">Options for development<a class="headerlink" href="#options-for-development" title="Permanent link">&para;</a></h3>
+<h3 id="platform-fairness">Platform FAIRness<a class="headerlink" href="#platform-fairness" title="Permanent link">&para;</a></h3>
+<h2 id="choose-suitable-formats">Choose suitable formats<a class="headerlink" href="#choose-suitable-formats" title="Permanent link">&para;</a></h2>
+<h3 id="common-formats">Common formats<a class="headerlink" href="#common-formats" title="Permanent link">&para;</a></h3>
+<h3 id="assessing-format-fairness">Assessing format FAIRness<a class="headerlink" href="#assessing-format-fairness" title="Permanent link">&para;</a></h3>
+<h3 id="improving-format-fairness">Improving format FAIRness<a class="headerlink" href="#improving-format-fairness" title="Permanent link">&para;</a></h3>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href=".." class="btn btn-neutral float-left" title="Home"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../deliver/" class="btn btn-neutral float-right" title="Delivery">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href=".." style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../deliver/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script>var base_url = '..';</script>
+    <script src="../js/theme_extra.js" defer></script>
+    <script src="../js/theme.js" defer></script>
+      <script src="../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>
