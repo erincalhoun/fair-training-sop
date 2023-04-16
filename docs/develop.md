@@ -63,6 +63,7 @@ Identify core and optional sections, allowing trainers and trainees to prioritiz
 ## Select an appropriate development platform
 ### Ideal features
 Ideally the platform should:
+
 - be open source
 - encourage collaboration
 - offer version control to maintain a history of updates
