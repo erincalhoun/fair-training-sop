@@ -2,9 +2,9 @@ site_name: FAIR training SOP
 site_url: 
 nav:
     - Home: index.md
-    - FAIR principles (notes): fair.md
-    - Materials: materials.md
-    - Events: events.md
-    - Workflows: workflows.md
+    - Development: develop.md
+    - Delivery: deliver.md
+    - Sharing: share.md
+    - Archiving: archive.md
 theme: readthedocs
 
