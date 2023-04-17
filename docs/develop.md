@@ -1,22 +1,32 @@
 # Development of FAIR training materials
 
-## 1. Introduction
-### Key considerations
-**Findability**
+## 1. Key considerations
+### Findability
+- Descriptive titles
+- Relevant keywords
+- Controlled vocabularies where possible (EDAM)
+- Metadata (Bioschemas)
+- Clear organizational structures
 
-Use descriptive titles, relevant keywords and controlled vocabularies (EDAM) where possible, rich metadata (BioSchemas), and a clear organizational structure.
+### Accessibility
 
-**Accessibility**
+- Define access rules from the beginning
+- Alt-text wherever possible
+- Comprehensive instructions for required tools or resources.
 
-Define access rules from the beginning, provide alt-text wherever possible, and offer comprehensive instructions for required tools or resources.
+### Interoperability
 
-**Interoperability**
+- Open platforms and formats
+- Standard domain-specific language
+- Best practices for content organization.
 
-Adopt open platforms and formats, use standard domain-specific language, and follow best practices for content organization.
-
-**Reusability**
-
-Design your materials in a way that allows for easy adaptation and customization, and provide clear instructions for use and attribution.
+### Reusability
+- Customizable design
+  - Lesson plan
+  - Modular
+  - Proper citations and links
+- Context for use
+- License and attribution
 
 !!! tip
 
