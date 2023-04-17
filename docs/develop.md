@@ -22,6 +22,18 @@ Adopt open platforms and formats, use standard domain-specific language, and fol
 
 Design your materials in a way that allows for easy adaptation and customization, and provide clear instructions for use and attribution.
 
+!!! note
+
+    Useful links:
+    **Bioschemas tutorial**
+    - [How to mark up your own resource](https://bioschemas.org/tutorials/howto/howto_add_markup)
+    - [Adding markup to a GitHub Pages site](https://bioschemas.org/tutorials/howto/howto_add_github)
+
+    **Bioschemas profiles**
+    - [Course](https://bioschemas.org/profiles/Course/1.0-RELEASE)
+    - [CourseInstance](https://bioschemas.org/profiles/CourseInstance/1.0-RELEASE)
+    - [TrainingMaterial](https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE)
+
 ## 2. A comprehensive lesson plan
 ### Describe the materials appropriately
 **Use clear, descriptive titles.**
@@ -175,7 +187,9 @@ PDFs are highly portable and accessible for most, but their static nature and co
 
 **Markup:**
 
-Markup language files are highly findable, accessible, interoperable, and reusable, as they easily convert to other formats and can be read by both humans and machines. However, creating content requires some additional skills.
+Markdown files are highly findable, accessible, interoperable, and reusable, as they easily convert to other formats and can be read by both humans and machines. HTML may require additional effort to make content reusable, such as providing downloadable source files or templates. 
+
+Increase findability by following best practices for web accessibility and including EDAM keywords/Bioschemas profile.
 
 **Multimedia:**
 
