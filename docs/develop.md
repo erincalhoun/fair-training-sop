@@ -22,7 +22,7 @@ Adopt open platforms and formats, use standard domain-specific language, and fol
 
 Design your materials in a way that allows for easy adaptation and customization, and provide clear instructions for use and attribution.
 
-!!! note
+!!! tip
 
     Useful links:
 
@@ -32,7 +32,7 @@ Design your materials in a way that allows for easy adaptation and customization
     - [Adding markup to a GitHub Pages site](https://bioschemas.org/tutorials/howto/howto_add_github)
 
     **Bioschemas profiles**
-    
+
     - [Course](https://bioschemas.org/profiles/Course/1.0-RELEASE)
     - [CourseInstance](https://bioschemas.org/profiles/CourseInstance/1.0-RELEASE)
     - [TrainingMaterial](https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE)
