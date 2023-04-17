@@ -2,7 +2,9 @@
 
 ## 1. Introduction
 ### Why should you make your training materials FAIR?
+
 Making training materials FAIR is essential for ensuring that they can be easily found, accessed, and used. Adhering to FAIR principles not only broadens your potential audience but also facilitates collaboration and resource sharing, making the development process more efficient.
+
 ### Key considerations
 **Findability**
 
@@ -29,6 +31,7 @@ The title should accurately reflect the content and help users quickly understan
 **List relevant keywords.**
 
 Select keywords commonly used in your field and relevant to the subject matter (EDAM) to help users find them when searching online or within a repository.
+
 ### Identify the target audience
 Clearly define your target audience so trainees can determine if the materials are:
 - relevant to their needs
@@ -36,11 +39,17 @@ Clearly define your target audience so trainees can determine if the materials a
 
 Describe the specific topics covered and how they relate to the intended audience's professional interests or research areas. Indicate the level of complexity or expertise required, preferably with specific terms, for example with [EBI's Competency Hub](https://competency.ebi.ac.uk/develop-your-courses).
 ### Specify prerequisites
-**Knowledge:** Specify concepts that are required to understand the material, but won't be covered.
+**Knowledge:**
 
-**Skills:** List skills or techniques that trainees should be familiar with.
+Specify concepts that are required to understand the material, but won't be covered.
 
-**Tools:** Clearly indicate tools or software required to use the materials, and provide links and detailed instructions.
+**Skills:**
+
+List skills or techniques that trainees should be familiar with.
+
+**Tools:**
+
+Clearly indicate tools or software required to use the materials, and provide links and detailed instructions.
 ### Define SMART learning outcomes
 Use SMART principles to express the knowledge, skills, and abilities (KSAs) trainees will acquire.
 
@@ -81,15 +90,19 @@ Further break down time needed for each section/module as well as exercises, all
 Include instructor notes for context and reusability.
 
 **Feedback and modifications:**
+
 Detail prior feedback and resulting modifications to the materials.
 
 **Technical tips:**
+
 Offer guidance on optimizing tutorials and exercises. Include a troubleshooting section if necessary.
 
 **Challenges:**
+
 Address frequently encountered problems and suggest solutions or alternatives.
 
 **Essential sections:**
+
 Identify core and optional sections, allowing trainers and trainees to prioritize learning based on needs and time constraints.
 ## 3. Select an appropriate development platform
 ### Ideal features
@@ -113,15 +126,19 @@ Online platforms can be propriety (Google Suite) or open source (Moodle). Both a
 ## 4. Choose suitable formats
 ### Common formats
 **Slides:**
+
 OpenDocument presentations (.odp), Google Slides, Microsoft PowerPoint (.pptx), Apple Keynote (.key)
 
 **Documents:**
+
 OpenDocument text (.odt), Google Docs, Microsoft Word (.docx), PDF
 
 **Markup:**
+
 Markdown, HTML, XML
 
 **Multimedia:**
+
 Many formats (MP4, WebM, MKV) and hosting platforms (YouTube, Vimeo)
 ### Assessing format FAIRness
 ### Improving format FAIRness
