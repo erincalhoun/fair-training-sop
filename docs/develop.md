@@ -1,10 +1,6 @@
 # Development of FAIR training materials
 
 ## 1. Introduction
-### Why should training materials be FAIR?
-
-Making training materials FAIR is essential for ensuring that they can be easily found, accessed, and used. Adhering to FAIR principles not only broadens your potential audience but also facilitates collaboration and resource sharing, making the development process more efficient.
-
 ### Key considerations
 **Findability**
 
