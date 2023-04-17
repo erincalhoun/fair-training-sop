@@ -76,13 +76,22 @@ Indicate the expected timeframe for achieving learning outcomes.
 ### Detail the learning experiences
 Outline the types of learning experiences included in your materials and provide a brief description with any necessary links.
 
-**Lectures:** Describe the content and link to slides, recordings, or transcripts.
+**Lectures:**
 
-**Tutorials:** Provide a summary of the task, along with instructions and required resources.
+Describe the content and link to slides, recordings, or transcripts.
 
-**Exercises:** List exercises or assignments you expect trainees to complete and include their purpose and expected outcomes.
+**Tutorials:**
 
-**Group work:** Detail planned collaborative activities and offer guidance on how groups will be formed and interact.
+Provide a summary of the task, along with instructions and required resources.
+
+**Exercises:**
+
+List exercises or assignments you expect trainees to complete and include their purpose and expected outcomes.
+
+**Group work:**
+
+Detail planned collaborative activities and offer guidance on how groups will be formed and interact.
+
 ### Estimate time requirements
 Estimate the total time required to complete training, including all lectures, tutorials, exercises, and group work. 
 Further break down time needed for each section/module as well as exercises, allowing trainees to plan their learning experience effectively.
@@ -140,5 +149,34 @@ Markdown, HTML, XML
 **Multimedia:**
 
 Many formats (MP4, WebM, MKV) and hosting platforms (YouTube, Vimeo)
-### Assessing format FAIRness
-### Improving format FAIRness
+
+### Assessing and improving format FAIRness
+**Slides:**
+
+Slides can be findable and accessible when they:
+- include descriptive metadata including titles and keywords
+- focus on accessibility (clean design, alt-text, reading order for screen readers)
+- are shared on an appropriate platform
+
+However, slides may not be as easily interoperable as other formats and require extra content for reusability.
+
+To improve interoperability, consider using an open format like .odp.
+
+To improve reusability, the slides should contain:
+- author/contributor information
+- a license for reuse
+- proper citations for all borrowed content
+- notes for context, especially for images
+- a transcript of the accompanying lecture/presentation
+
+**Documents:**
+
+PDFs are highly portable and accessible for most, but their static nature and commonly licensed software limits interoperability and reusability. Include the original format alongside PDFs to make them more FAIR.
+
+**Markup:**
+
+Markup language files are highly findable, accessible, interoperable, and reusable, as they easily convert to other formats and can be read by both humans and machines. However, creating content requires some additional skills.
+
+**Multimedia:**
+
+Videos and audio can be findable and accessible when properly described and hosted on accessible platforms but have limited interoperability and reusability. Create short videos covering single topics and consider providing captions, transcripts, or other supplementary materials to enhance FAIRness.
