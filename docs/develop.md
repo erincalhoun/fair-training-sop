@@ -12,19 +12,16 @@
 
 - Define access rules from the beginning
 - Alt-text wherever possible
-- Comprehensive instructions for required tools or resources.
+- Comprehensive instructions for required tools or resources
 
 ### Interoperability
 
 - Open platforms and formats
 - Standard domain-specific language
-- Best practices for content organization.
+- Best practices for content organization
 
 ### Reusability
-- Customizable design
-  - Lesson plan
-  - Modular
-  - Proper citations and links
+- Modular design
 - Context for use
 - License and attribution
 
