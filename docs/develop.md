@@ -36,36 +36,47 @@ Clearly define your target audience so trainees can determine if the materials a
 
 Describe the specific topics covered and how they relate to the intended audience's professional interests or research areas. Indicate the level of complexity or expertise required, preferably with specific terms, for example with [EBI's Competency Hub](https://competency.ebi.ac.uk/develop-your-courses).
 ### Specify prerequisites
-- Knowledge: specify concepts that are required to understand the material, but won't be covered.
-- Skills: list skills or techniques that trainees should be familiar with.
-- Tools: clearly indicate tools or software required to use the materials, and provide links and detailed instructions.
+**Knowledge:** Specify concepts that are required to understand the material, but won't be covered.
+
+**Skills:** List skills or techniques that trainees should be familiar with.
+
+**Tools:** Clearly indicate tools or software required to use the materials, and provide links and detailed instructions.
 ### Define SMART learning outcomes
 Use SMART principles to express the knowledge, skills, and abilities (KSAs) trainees will acquire.
 
 **Specific:**
+
 Define KSAs concisely. Avoid compound learning outcomes.
 
 **Measurable:** 
+
 Use action verbs (see Bloom's taxonomy for examples) to describe learning outcomes in a way that allows for assessment.
 
 **Achievable:**
+
 Ensure learning outcomes are realistic given the scope and duration of the training.
 
 **Relevant:**
+
 Align the learning outcomes with the needs and interests of your target audience.
 
 **Time-bound:**
+
 Indicate the expected timeframe for achieving learning outcomes.
 
 ### Detail the learning experiences
 Outline the types of learning experiences included in your materials and provide a brief description with any necessary links.
 
-- Lectures: describe the content and link to slides, recordings, or transcripts.
-- Tutorials: provide a summary of the task, along with instructions and required resources.
-- Exercises: list exercises or assignments you expect trainees to complete and include their purpose and expected outcomes.
-- Group work: describe planned collaborative activities and offer guidance on how groups will be formed and interact.
+**Lectures:** Describe the content and link to slides, recordings, or transcripts.
+
+**Tutorials:** Provide a summary of the task, along with instructions and required resources.
+
+**Exercises:** List exercises or assignments you expect trainees to complete and include their purpose and expected outcomes.
+
+**Group work:** Detail planned collaborative activities and offer guidance on how groups will be formed and interact.
 ### Estimate time requirements
-Estimate the total time required to complete training, including all lectures, tutorials, exercises, and group work. Further break down time needed for each section/module as well as exercises, allowing trainees to plan their learning experience effectively.
+Estimate the total time required to complete training, including all lectures, tutorials, exercises, and group work. 
+Further break down time needed for each section/module as well as exercises, allowing trainees to plan their learning experience effectively.
 ### Incorporate instructor notes
 Include instructor notes for context and reusability.
 
