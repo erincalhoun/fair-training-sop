@@ -5,15 +5,19 @@
 Making training materials FAIR is essential for ensuring that they can be easily found, accessed, and used. Adhering to FAIR principles not only broadens your potential audience but also facilitates collaboration and resource sharing, making the development process more efficient.
 ### Key considerations
 **Findability**
+
 Use descriptive titles, relevant keywords and controlled vocabularies (EDAM) where possible, rich metadata (BioSchemas), and a clear organizational structure.
 
 **Accessibility**
+
 Define access rules from the beginning, provide alt-text wherever possible, and offer comprehensive instructions for required tools or resources.
 
 **Interoperability**
+
 Adopt open platforms and formats, use standard domain-specific language, and follow best practices for content organization.
 
 **Reusability**
+
 Design your materials in a way that allows for easy adaptation and customization, and provide clear instructions for use and attribution.
 
 ## 2. Craft a comprehensive lesson plan
