@@ -25,11 +25,14 @@ Design your materials in a way that allows for easy adaptation and customization
 !!! note
 
     Useful links:
+
     **Bioschemas tutorial**
+
     - [How to mark up your own resource](https://bioschemas.org/tutorials/howto/howto_add_markup)
     - [Adding markup to a GitHub Pages site](https://bioschemas.org/tutorials/howto/howto_add_github)
 
     **Bioschemas profiles**
+    
     - [Course](https://bioschemas.org/profiles/Course/1.0-RELEASE)
     - [CourseInstance](https://bioschemas.org/profiles/CourseInstance/1.0-RELEASE)
     - [TrainingMaterial](https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE)
