@@ -22,7 +22,7 @@ Adopt open platforms and formats, use standard domain-specific language, and fol
 
 Design your materials in a way that allows for easy adaptation and customization, and provide clear instructions for use and attribution.
 
-## 2. Craft a comprehensive lesson plan
+## 2. A comprehensive lesson plan
 ### Describe the materials appropriately
 **Use clear, descriptive titles.**
 
@@ -113,7 +113,7 @@ Address frequently encountered problems and suggest solutions or alternatives.
 **Essential sections:**
 
 Identify core and optional sections, allowing trainers and trainees to prioritize learning based on needs and time constraints.
-## 3. Select an appropriate development platform
+## 3. Select a development platform
 ### Ideal features
 Ideally the platform should:
 
