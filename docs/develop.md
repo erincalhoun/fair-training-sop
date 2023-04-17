@@ -37,6 +37,12 @@ Design your materials in a way that allows for easy adaptation and customization
     - [CourseInstance](https://bioschemas.org/profiles/CourseInstance/1.0-RELEASE)
     - [TrainingMaterial](https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE)
 
+    **EDAM: Bioscientific data analysis ontology**
+
+    - [EBI Ontology Look-up Service OLS](https://www.ebi.ac.uk/ols/ontologies/edam)
+    - [EDAM browser](https://edamontology.github.io/edam-browser/#topic_0091)
+    - [EDAM documentation](https://edamontologydocs.readthedocs.io/en/latest/index.html)
+
 ## 2. A comprehensive lesson plan
 ### Describe the materials appropriately
 **Use clear, descriptive titles.**
