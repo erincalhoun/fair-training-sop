@@ -12,4 +12,4 @@ nav:
 
 theme: readthedocs
 
-extra_css: [theme_extra.css]
+extra_css: [extra.css]
