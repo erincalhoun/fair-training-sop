@@ -63,7 +63,7 @@ This procedure applies to the creation of any training materials, including slid
 
 4. Register the training materials and metadata in relevant repositories and registries including TeSS.
 
-!!! tip
+!!! tip "Resources for Findability"
 
     **Bioschemas tutorial**
 
