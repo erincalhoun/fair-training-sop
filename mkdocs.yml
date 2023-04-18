@@ -11,3 +11,5 @@ nav:
     - Archiving: archive.md
 
 theme: readthedocs
+
+extra_css: [theme_extra.css]
