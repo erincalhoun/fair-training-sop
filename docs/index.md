@@ -18,11 +18,11 @@ This procedure applies to the creation of any training materials, including slid
 
 ## Preparation and planning
 
-Review the FAIR principles and guidelines laid out by "Ten Simple Rules for making training materials FAIR" and ELIXIR Europe's FAIR training handbook.
+1. Review the FAIR principles and guidelines laid out by "Ten Simple Rules for making training materials FAIR" and ELIXIR Europe's FAIR training handbook.
 
-Identify the target audience, learning objectives, and desired outcomes for the training materials.
+2. Identify the target audience, learning objectives, and desired outcomes for the training materials.
 
-Develop a content outline with an accompanying lesson plan.
+3. Develop a content outline with an accompanying lesson plan.
 
 !!! tip "Resources"
 
@@ -55,13 +55,13 @@ Develop a content outline with an accompanying lesson plan.
     - [EBI's Competency Hub](https://competency.ebi.ac.uk/develop-your-courses)
 
 ## Creating findable training materials
-Assign unique, persistent identifiers.
+1. Assign unique, persistent identifiers.
 
-Optimize the training materials for searching by using appropriate keywords, metadata, and markup language. Bioschemas has three profiles for training materials and courses.
+2. Optimize the training materials for searching by using appropriate keywords, metadata, and markup language. Bioschemas has three profiles for training materials and courses.
 
-Create metadata and descriptions that accurately describe the training materials using EDAM.
+3. Create metadata and descriptions that accurately describe the training materials using EDAM.
 
-Register the training materials and metadata in relevant repositories and registries including TeSS.
+4. Register the training materials and metadata in relevant repositories and registries including TeSS.
 
 !!! tip
 
@@ -90,35 +90,35 @@ Register the training materials and metadata in relevant repositories and regist
 
 
 ## Creating accessible training materials
-Ensure that the training materials are available online, preferably with open access.
+1. Ensure that the training materials are available online, preferably with open access.
 
-Choose standard, open formats for the materials to ensure compatibility with various devices and software.
+2. Choose standard, open formats for the materials to ensure compatibility with various devices and software.
 
-Provide alternative formats (for example alt-text on slides/documents and text transcripts for video content) to accommodate diverse user needs and preferences.
+3. Provide alternative formats (for example alt-text on slides/documents and text transcripts for video content) to accommodate diverse user needs and preferences.
 
-Implement accessibility best practices, such as using clear fonts, high contrast colors, and appropriate text size.
+4. Implement accessibility best practices, such as using clear fonts, high contrast colors, and appropriate text size.
 
 ## Creating interoperable training materials
-Use common, standardized vocabularies, ontologies, and data formats throughout the materials.
+1. Use common, standardized vocabularies, ontologies, and data formats throughout the materials.
 
-Incorporate links or references to related resources, guidelines, and tools to facilitate integration with other materials.
+2. Incorporate links or references to related resources, guidelines, and tools to facilitate integration with other materials.
 
-Provide clear instructions for using, modifying, and extending the training materials.
+3. Provide clear instructions for using, modifying, and extending the training materials.
 
 # Creating reusable training materials
-Clearly state the licensing terms and conditions for the training materials, preferably using a Creative Commons or other open license.
+1. Clearly state the licensing terms and conditions for the training materials, preferably using a Creative Commons or other open license.
 
-Include detailed instructions, examples, and explanations to support users in understanding and applying the content.
+2. Include detailed instructions, examples, and explanations to support users in understanding and applying the content.
 
-Regularly update the training materials to ensure their continued relevance and accuracy.
+3. Regularly update the training materials to ensure their continued relevance and accuracy.
 
-Encourage feedback and collaboration from users to improve the materials and promote their reuse.
+4. Encourage feedback and collaboration from users to improve the materials and promote their reuse.
 
 ## Evaluation and improvement
-Collect feedback from users on the effectiveness, usability, and accessibility of the training materials.
+1. Collect feedback from users on the effectiveness, usability, and accessibility of the training materials.
 
-Monitor usage statistics, such as the number of views, downloads, and citations, to assess the materials' impact and visibility.
+2. Monitor usage statistics, such as the number of views, downloads, and citations, to assess the materials' impact and visibility.
 
-Periodically review and update the training materials based on user feedback, new developments, and evolving best practices.
+3. Periodically review and update the training materials based on user feedback, new developments, and evolving best practices.
 
-Share experiences and lessons learned with the broader FAIR training community to contribute to ongoing improvement and collaboration.
+4. Share experiences and lessons learned with the broader FAIR training community to contribute to ongoing improvement and collaboration.
