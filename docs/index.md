@@ -8,11 +8,11 @@
 
 Making training materials FAIR is essential for ensuring that they can be easily found, accessed, and used. Adhering to FAIR principles not only broadens your potential audience but also facilitates collaboration and resource sharing, making the development process more efficient.
 
-## Purpose: 
+## Purpose
 
 To provide a comprehensive recipe for creating Findable, Accessible, Interoperable, and Reusable (FAIR) training materials in alignment with the guidelines and best practices established by "Ten Simple Rules for making training materials FAIR" (2020 Garcia et al.) and ELIXIR Europe's FAIR training handbook.
 
-## Scope: 
+## Scope
 
 This procedure applies to the creation of any training materials, including slides, presentations, videos, manuals, tutorials, and courses, with the aim of adhering to FAIR principles.
 
