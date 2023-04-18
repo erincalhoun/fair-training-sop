@@ -103,7 +103,7 @@ This procedure applies to the creation of any training materials, including slid
 
 3. Provide clear instructions for using, modifying, and extending the training materials.
 
-# Creating reusable training materials
+## Creating reusable training materials
 1. Clearly state the licensing terms and conditions for the training materials, preferably using a Creative Commons or other open license.
 
 2. Include detailed instructions, examples, and explanations to support users in understanding and applying the content.
