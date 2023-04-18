@@ -25,27 +25,6 @@
 - Context for use
 - License and attribution
 
-!!! tip
-
-    Useful links:
-
-    **Bioschemas tutorial**
-
-    - [How to mark up your own resource](https://bioschemas.org/tutorials/howto/howto_add_markup)
-    - [Adding markup to a GitHub Pages site](https://bioschemas.org/tutorials/howto/howto_add_github)
-
-    **Bioschemas profiles**
-
-    - [Course](https://bioschemas.org/profiles/Course/1.0-RELEASE)
-    - [CourseInstance](https://bioschemas.org/profiles/CourseInstance/1.0-RELEASE)
-    - [TrainingMaterial](https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE)
-
-    **EDAM: Bioscientific data analysis ontology**
-
-    - [EBI Ontology Look-up Service OLS](https://www.ebi.ac.uk/ols/ontologies/edam)
-    - [EDAM browser](https://edamontology.github.io/edam-browser/#topic_0091)
-    - [EDAM documentation](https://edamontologydocs.readthedocs.io/en/latest/index.html)
-
 ## 2. A comprehensive lesson plan
 ### Describe the materials appropriately
 **Use clear, descriptive titles.**
@@ -61,7 +40,7 @@ Clearly define your target audience so trainees can determine if the materials a
 - relevant to their needs
 - at an appropriate level
 
-Describe the specific topics covered and how they relate to the intended audience's professional interests or research areas. Indicate the level of complexity or expertise required, preferably with specific terms, for example with [EBI's Competency Hub](https://competency.ebi.ac.uk/develop-your-courses).
+Describe the specific topics covered and how they relate to the intended audience's professional interests or research areas. Indicate the level of complexity or expertise required, preferably with specific terms.
 ### Specify prerequisites
 **Knowledge:**
 
