@@ -65,8 +65,6 @@ This procedure applies to the creation of any training materials, including slid
 
 !!! tip
 
-    Useful links:
-
     **Bioschemas tutorial**
 
     - [How to mark up your own resource](https://bioschemas.org/tutorials/howto/howto_add_markup)
